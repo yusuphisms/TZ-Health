@@ -108,3 +108,9 @@ venv.bak/
 
 #Pycharm
 .idea/*
+
+#private folder
+private/
+
+#data folder
+data/
